@@ -21,8 +21,8 @@
   <div id="navigation">
     <ul>
       <li><a href="index.html"><span>inicio</span></a></li>
-      <li><a href="agency.html"><span>agency</span></a></li>
-      <li><a href="#" class="active"><span>calendar dates</span></a></li>
+      <li><a href="#" class="active"><span>agency</span></a></li>
+      <li><a href="calendar_dates.html"><span>calendar dates</span></a></li>
     </ul>
     <div class="cl">&nbsp;</div>
   </div>
@@ -34,13 +34,14 @@
           <div id="content" class="box">
             <br>
             <h3>Passos</h3>
-            <p>Este módulo permite carregar um ficheiro "calendar_dates.csv" e exportar no correspondente XML do NetEx</p>
-            <p><b>Nota:</b>este modulo ainda está em desenvolvimento, não exportando ainda a estrutura.</p>
+            <p>Este módulo permite carregar um ficheiro "agency.csv" e exportar no correspondente XML do NetEx</p>
           </div>
           <div class="cl">&nbsp;</div>
 
           <form id="upload" action="index.html" method="POST" enctype="multipart/form-data">
             <fieldset>
+            <!--<legend>HTML File Upload</legend>-->
+            
             <input type="hidden" id="MAX_FILE_SIZE" name="MAX_FILE_SIZE" value="300000" />
             
             <div>
@@ -55,13 +56,15 @@
             
             </fieldset>
             
-            </form>
+        </form>
             
             <div id="messages">
             <p>Status Messages</p>
             </div>
-                
-            <script src="js/fileProcessCalendarDates.js"></script>
+            
+            
+            
+            <script src="js/fileProcessAgency.js"></script>
             <script src="js/netex_templates.js"></script>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
@@ -97,24 +100,4 @@
 
     </body>
 </html>
--->
-
-
-<!--<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>NexEx Generator - GTFS</title>
-        <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
-
-        <script>
-            
-        </script>
-    </head>
-    <body>
-        <h1>Process GTFS - CalendarDates File - to NetEx format</h1>
-        
-
-    </body>
-</html>
-
 -->
