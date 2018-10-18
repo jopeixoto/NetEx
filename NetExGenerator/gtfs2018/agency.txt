@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+AVA,Auto Viação Aveirense,http://www.transdev.pt/, Europe/Lisbon,00351234423513,pt

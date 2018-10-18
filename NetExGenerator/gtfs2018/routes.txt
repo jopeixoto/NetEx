@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+7311,AVA,7311,CARREIRA 7311,Águeda-Águeda com passagem em Recardães e Borralha,3
+7318,AVA,7318,CARREIRA 7318,Águeda-Fontinha com passagem na Mourisca Pedaçães Trofa e Segadães,3
+7322,AVA,7322,CARREIRA 7322,Águeda-Urgueira com passagem na Aguieira Arrancada Á-dos-Ferreiros Cambra Casal Préstimo Serra de Cima Cabeço de Cão Salgueiro e Macieira de Alcôba,3
+7323,AVA,7323,CARREIRA 7323,Águeda-Agadão com passagem no Sardão Borralha Vale Grande S Martinho Aguada de Cima Forcada Aguadalte Bustelo Boialvo Cadaval Póvoa de Vale do Trigo Belazaima Falgarosa,3
+7325,AVA,7325,CARREIRA 7325,Águeda-Aguada de Cima com passagem na Borralha Vale do Grou Barrô Carqueijo Aguada de Baixo Passadouro Almas da Areosa Forcada,3
+7326,AVA,7326,CARREIRA 7326,Á-dos-Ferreiros-Águeda com passagem no Ameal Gravanço Vale Domingos Catraia de Assequins Rio Côvo Giesteira e Maçoida,3
+7315,AVA,7315,CARREIRA 7315,Águeda-Fermentelos com passagem no Casainho Oronhe Espinhel Piedade Paradela Perrães Giesta e Rego,3
