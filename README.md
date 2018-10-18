@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-https://github.com/jopeixoto/NetEx/NetExGenerator/index.html
 
+link:https://github.com/jopeixoto/NetEx/NetExGenerator/index.html[Link Text]
 
 
 You can use the [editor on GitHub](https://github.com/jopeixoto/NetEx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
